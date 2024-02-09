@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(14, 152, 207);
+    font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    
+}
