@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(14, 152, 207);
+    background-color: rgb(15, 203, 250) ;
     font: normal 15pt Arial;
 }
 header{
@@ -12,7 +12,7 @@ section{
     padding: 15px;
     width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 10px rgb(29, 190, 240);
+    box-shadow: 3px 3px 10px rgb(31, 119, 235);
     
 }
 footer{
